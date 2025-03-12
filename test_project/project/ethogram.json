@@ -1,0 +1,27 @@
+{
+   "0": {
+      "description": "standing",
+      "subclasses": {
+         "0": {
+            "description": "random"
+         },
+         "1": {
+            "description": "feeding fence"
+         },
+         "2": {
+            "description": "drinking"
+         }
+      }
+   },
+   "1": {
+      "description": "lying",
+      "subclasses": {
+         "0": {
+            "description": "left side"
+         },
+         "1": {
+            "description": "right side"
+         }
+      }
+   }
+}

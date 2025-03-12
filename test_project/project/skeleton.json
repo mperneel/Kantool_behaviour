@@ -1,0 +1,86 @@
+{
+    "0": {
+        "name": "withers",
+        "parent": -1,
+        "coordinates": [
+            216.76341998925764,
+            510.0644393046191
+        ],
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "annotation_order": 1
+    },
+    "1": {
+        "name": "tail_implant",
+        "parent": 0,
+        "coordinates": [
+            217.97992437533495,
+            1153.0526840788746
+        ],
+        "color": [
+            0.0,
+            255.0,
+            0.0
+        ],
+        "annotation_order": 0
+    },
+    "2": {
+        "name": "head",
+        "parent": 0,
+        "coordinates": [
+            204.70117816910056,
+            139.49394802652418
+        ],
+        "color": [
+            255.0,
+            128.0,
+            0.0
+        ],
+        "annotation_order": 2
+    },
+    "3": {
+        "name": "nose",
+        "parent": 2,
+        "coordinates": [
+            200.574138286659,
+            33.01631905953235
+        ],
+        "color": [
+            255.0,
+            255.0,
+            0.0
+        ],
+        "annotation_order": 3
+    },
+    "4": {
+        "name": "left_hip",
+        "parent": 0,
+        "coordinates": [
+            96.36258339096545,
+            982.3809675897753
+        ],
+        "color": [
+            128,
+            0,
+            255
+        ],
+        "annotation_order": 5
+    },
+    "5": {
+        "name": "right_hip",
+        "parent": 0,
+        "coordinates": [
+            344.059693718078,
+            984.9678825801368
+        ],
+        "color": [
+            255,
+            0,
+            128
+        ],
+        "annotation_order": 4
+    }
+}
